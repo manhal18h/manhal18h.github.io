@@ -1,0 +1,49 @@
+a
+{
+    text-decoration: none
+}
+ul{
+    list-style-type:none
+}
+div{
+    margin: 0px;
+}
+#str2{
+    font-size: 20px;padding:0 0 10px 0;margin: auto 0 0 0
+}
+#str1{
+    margin: auto;font-size: 30px;padding: 10px 0
+}
+div.Koyu{
+    background-color: #333;color: #fff;text-align: center;
+}
+div.Orta{
+    background-color: #b1b0b0 ;font-size: 20px;text-align: center;color: #000;
+}
+.AnaList li{
+    display: inline-block;padding: 0 15px;margin: auto;border-left: 1px solid #333
+}
+div.GroupboxDiv{
+    padding: 0 0 15px 0;
+}
+div.YanList{
+    float: left;margin: 1px 22px 0 0;background-color: #b1b0b0;padding: 0;
+}
+div.YanList ul{
+    margin: 27px 20px 28px 0;padding: 0 0 0 20px;
+}
+div.YanList ul li :hover{
+    background-color: #ddd
+}
+div.YanList ul li{
+    margin: 0 0 5px 0;
+}
+div.YanList ul li a{
+    color: #000; 
+}
+p.GroupboxParag{
+    border-left: 3px solid #000;line-height: 200%;background-color: white
+}
+input{
+    background-color: white;width: 100px;height: 40px;margin: 19px 0;
+}
